@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  LX_HudDemo
+//
+//  Created by 李lucy on 16/7/12.
+//  Copyright © 2016年 com.muyandialog.Co.,Ltd. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "MBProgressHUD.h"
+#import "MBProgressHUD+LX_Extention.h"
+#import "UIViewController+LX_HUD.h"
+#import "SVProgressHUD.h"
+
+#endif /* PrefixHeader_pch */
